@@ -1,1 +1,1 @@
-# GitHum Collacoration Practice
+# GitHub Collaboration Practice
